@@ -1,0 +1,70 @@
+{
+  "name": "Web3 Whale",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#050a12",
+    "editor.foreground": "#e8f0ff",
+    "activityBarBadge.background": "#ffd700",
+    "sideBar.background": "#040810",
+    "sideBar.foreground": "#c0d8f0",
+    "sideBar.border": "#1a2a3a",
+    "tab.activeBackground": "#050a12",
+    "tab.activeForeground": "#ffd700",
+    "tab.inactiveBackground": "#040810",
+    "statusBar.background": "#ffd700",
+    "statusBar.foreground": "#000000",
+    "titleBar.activeBackground": "#050a12",
+    "activityBar.background": "#040810",
+    "activityBar.foreground": "#ffd700",
+    "button.background": "#ffd700",
+    "button.foreground": "#000000",
+    "editorCursor.foreground": "#ffd700",
+    "editorLineNumber.foreground": "#405060",
+    "editorLineNumber.activeForeground": "#ffd700",
+    "editor.lineHighlightBackground": "#0a1018",
+    "editor.selectionBackground": "#ffd70030",
+    "terminal.ansiBlack": "#1a2a3a",
+    "terminal.ansiBlue": "#00aaff",
+    "terminal.ansiCyan": "#00d4ff",
+    "terminal.ansiGreen": "#00ff88",
+    "terminal.ansiMagenta": "#ff00ff",
+    "terminal.ansiRed": "#ff4466",
+    "terminal.ansiWhite": "#e8f0ff",
+    "terminal.ansiYellow": "#ffb800"
+  },
+  "semanticHighlighting": true,
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": {"foreground": "#405060", "fontStyle": "italic"}
+    },
+    {
+      "scope": ["string"],
+      "settings": {"foreground": "#00d4ff"}
+    },
+    {
+      "scope": ["constant.numeric"],
+      "settings": {"foreground": "#ffd700"}
+    },
+    {
+      "scope": ["keyword", "storage.type"],
+      "settings": {"foreground": "#00bcd4", "fontStyle": "bold"}
+    },
+    {
+      "scope": ["entity.name.function", "support.function"],
+      "settings": {"foreground": "#ffb800"}
+    },
+    {
+      "scope": ["entity.name.class", "support.class"],
+      "settings": {"foreground": "#ffd700"}
+    },
+    {
+      "scope": ["variable"],
+      "settings": {"foreground": "#e8f0ff"}
+    },
+    {
+      "scope": ["variable.other.property"],
+      "settings": {"foreground": "#70d0ff"}
+    }
+  ]
+}

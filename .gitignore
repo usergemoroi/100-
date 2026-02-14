@@ -1,0 +1,55 @@
+# VS Code
+.vscode/
+*.vsix
+*.code-workspace
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+.cache/
+
+# Build artifacts
+dist/
+build/
+out/
+
+# Private/Premium content
+premium-themes/*.json
+!premium-themes/README.md
+
+# API keys and secrets
+.env
+.env.local
+secrets.json
+
+# Editor directories
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Misc
+*.bak
+*.orig

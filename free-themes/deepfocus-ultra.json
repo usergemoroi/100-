@@ -1,0 +1,10 @@
+{
+  "name": "Placeholder",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#0a0a0f",
+    "editor.foreground": "#e8e8f0",
+    "statusBar.background": "#0080ff"
+  },
+  "tokenColors": []
+}

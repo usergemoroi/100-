@@ -1,0 +1,35 @@
+{
+  "name": "AI Overlord",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#0a0814",
+    "editor.foreground": "#e8e8ff",
+    "activityBarBadge.background": "#9d00ff",
+    "sideBar.background": "#080610",
+    "sideBar.foreground": "#c8c8e8",
+    "statusBar.background": "#9d00ff",
+    "statusBar.foreground": "#ffffff",
+    "titleBar.activeBackground": "#0a0814",
+    "activityBar.background": "#080610",
+    "activityBar.foreground": "#9d00ff",
+    "button.background": "#9d00ff",
+    "editorCursor.foreground": "#ff00ff",
+    "editorLineNumber.foreground": "#4a4068",
+    "editorLineNumber.activeForeground": "#9d00ff",
+    "editor.lineHighlightBackground": "#121020",
+    "editor.selectionBackground": "#9d00ff30",
+    "terminal.ansiGreen": "#00ff88",
+    "terminal.ansiMagenta": "#ff00ff",
+    "terminal.ansiCyan": "#00ffee"
+  },
+  "semanticHighlighting": true,
+  "tokenColors": [
+    {"scope": ["comment"], "settings": {"foreground": "#4a4068", "fontStyle": "italic"}},
+    {"scope": ["string"], "settings": {"foreground": "#00ff88"}},
+    {"scope": ["constant.numeric"], "settings": {"foreground": "#ff00ff"}},
+    {"scope": ["keyword"], "settings": {"foreground": "#9d00ff", "fontStyle": "bold"}},
+    {"scope": ["entity.name.function"], "settings": {"foreground": "#c080ff"}},
+    {"scope": ["entity.name.class"], "settings": {"foreground": "#9d00ff"}},
+    {"scope": ["variable"], "settings": {"foreground": "#e8e8ff"}}
+  ]
+}

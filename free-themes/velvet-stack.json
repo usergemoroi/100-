@@ -1,0 +1,16 @@
+{
+  "name": "Theme",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#0a0a0f",
+    "editor.foreground": "#e8e8f0",
+    "statusBar.background": "#0080ff",
+    "activityBar.background": "#08080d"
+  },
+  "tokenColors": [
+    {"scope": ["comment"], "settings": {"foreground": "#505060"}},
+    {"scope": ["string"], "settings": {"foreground": "#80d0ff"}},
+    {"scope": ["keyword"], "settings": {"foreground": "#ff80ff"}},
+    {"scope": ["entity.name.function"], "settings": {"foreground": "#ffc070"}}
+  ]
+}

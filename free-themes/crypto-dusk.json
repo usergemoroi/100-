@@ -1,0 +1,65 @@
+{
+  "name": "CryptoDusk",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#110a18",
+    "editor.foreground": "#f0e8ff",
+    "activityBarBadge.background": "#ff6b35",
+    "sideBar.background": "#0d0812",
+    "sideBar.foreground": "#d0c0e0",
+    "sideBar.border": "#2a1a3a",
+    "statusBar.background": "#ff6b35",
+    "statusBar.foreground": "#000000",
+    "titleBar.activeBackground": "#110a18",
+    "titleBar.activeForeground": "#f0e8ff",
+    "activityBar.background": "#0d0812",
+    "activityBar.foreground": "#ff6b35",
+    "button.background": "#b565f9",
+    "button.foreground": "#ffffff",
+    "input.background": "#1a1224",
+    "input.border": "#b565f9",
+    "editorCursor.foreground": "#ff6b35",
+    "editorLineNumber.foreground": "#685a7a",
+    "editorLineNumber.activeForeground": "#ff6b35",
+    "editor.lineHighlightBackground": "#1a1224",
+    "editor.selectionBackground": "#b565f940",
+    "terminal.ansiBlack": "#2a1a3a",
+    "terminal.ansiBlue": "#00d9ff",
+    "terminal.ansiCyan": "#00ffee",
+    "terminal.ansiGreen": "#b565f9",
+    "terminal.ansiMagenta": "#ff6b35",
+    "terminal.ansiRed": "#ff4466",
+    "terminal.ansiWhite": "#f0e8ff",
+    "terminal.ansiYellow": "#ffba08"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": {"foreground": "#685a7a", "fontStyle": "italic"}
+    },
+    {
+      "scope": ["string"],
+      "settings": {"foreground": "#ffba08"}
+    },
+    {
+      "scope": ["constant.numeric"],
+      "settings": {"foreground": "#ff6b35"}
+    },
+    {
+      "scope": ["keyword"],
+      "settings": {"foreground": "#b565f9", "fontStyle": "bold"}
+    },
+    {
+      "scope": ["entity.name.function"],
+      "settings": {"foreground": "#00d9ff"}
+    },
+    {
+      "scope": ["entity.name.class"],
+      "settings": {"foreground": "#ff6b35"}
+    },
+    {
+      "scope": ["variable"],
+      "settings": {"foreground": "#f0e8ff"}
+    }
+  ]
+}

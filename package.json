@@ -1,0 +1,556 @@
+{
+  "name": "elite-themes-2026",
+  "displayName": "Elite Themes 2026 — 100 Premium VS Code Themes",
+  "description": "100 revolutionary, money-making VS Code themes designed for elite developers. From crypto hustlers to AI engineers to digital nomads — themes that sell your vibe.",
+  "version": "1.0.0",
+  "publisher": "elite-dev-studio",
+  "icon": "assets/icons/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/elite-themes-2026"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/elite-themes-2026/issues"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/elite-themes-2026#readme",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "premium",
+    "elite",
+    "colorful",
+    "2026",
+    "ai coding",
+    "crypto",
+    "developer productivity",
+    "focus",
+    "aesthetic",
+    "viral",
+    "best theme"
+  ],
+  "galleryBanner": {
+    "color": "#0d0d0d",
+    "theme": "dark"
+  },
+  "sponsor": {
+    "url": "https://github.com/sponsors/YOUR_USERNAME"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "NeonHustle Dark",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/neon-hustle-dark.json"
+      },
+      {
+        "label": "MillionCode Pro",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/million-code-pro.json"
+      },
+      {
+        "label": "EliteForge Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/elite-forge-midnight.json"
+      },
+      {
+        "label": "CryptoDusk",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/crypto-dusk.json"
+      },
+      {
+        "label": "FlowState Pro",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/flowstate-pro.json"
+      },
+      {
+        "label": "ApexVoid",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/apex-void.json"
+      },
+      {
+        "label": "VelvetStack",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/velvet-stack.json"
+      },
+      {
+        "label": "SigmaDark Elite",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/sigma-dark-elite.json"
+      },
+      {
+        "label": "LamboGlow",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/lambo-glow.json"
+      },
+      {
+        "label": "FreedomEngine",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/freedom-engine.json"
+      },
+      {
+        "label": "QuantumWealth",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/quantum-wealth.json"
+      },
+      {
+        "label": "CodeBillionaire",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/code-billionaire.json"
+      },
+      {
+        "label": "MidnightFounder",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/midnight-founder.json"
+      },
+      {
+        "label": "VaporProfit",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/vapor-profit.json"
+      },
+      {
+        "label": "DiamondStack",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/diamond-stack.json"
+      },
+      {
+        "label": "NomadNeon",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/nomad-neon.json"
+      },
+      {
+        "label": "AlphaFlow",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/alpha-flow.json"
+      },
+      {
+        "label": "LuxeCoder",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/luxe-coder.json"
+      },
+      {
+        "label": "JetStream Pro",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/jetstream-pro.json"
+      },
+      {
+        "label": "MomCoder Zen",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/momcoder-zen.json"
+      },
+      {
+        "label": "DevYacht",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/dev-yacht.json"
+      },
+      {
+        "label": "PentHouse Code",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/penthouse-code.json"
+      },
+      {
+        "label": "GoldRush Terminal",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/goldrush-terminal.json"
+      },
+      {
+        "label": "StartuPunk",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/startupunk.json"
+      },
+      {
+        "label": "EmeraldEngine",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/emerald-engine.json"
+      },
+      {
+        "label": "PlatinumDev",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/platinum-dev.json"
+      },
+      {
+        "label": "MoonProfit",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/moon-profit.json"
+      },
+      {
+        "label": "TechTitan",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/tech-titan.json"
+      },
+      {
+        "label": "VelvetVault",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/velvet-vault.json"
+      },
+      {
+        "label": "OceanElite",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/ocean-elite.json"
+      },
+      {
+        "label": "RubyRoyale",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/ruby-royale.json"
+      },
+      {
+        "label": "MidnightMogul",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/midnight-mogul.json"
+      },
+      {
+        "label": "NeonEmpire",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/neon-empire.json"
+      },
+      {
+        "label": "CodeCasino",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/code-casino.json"
+      },
+      {
+        "label": "VioletVenture",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/violet-venture.json"
+      },
+      {
+        "label": "HustleHaven",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/hustle-haven.json"
+      },
+      {
+        "label": "AmberAscent",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/amber-ascent.json"
+      },
+      {
+        "label": "IndigoIncome",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/indigo-income.json"
+      },
+      {
+        "label": "CrimsonCapital",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/crimson-capital.json"
+      },
+      {
+        "label": "TealTycoon",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/teal-tycoon.json"
+      },
+      {
+        "label": "ObsidianOwner",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/obsidian-owner.json"
+      },
+      {
+        "label": "SapphireStack",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/sapphire-stack.json"
+      },
+      {
+        "label": "ForestFortune",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/forest-fortune.json"
+      },
+      {
+        "label": "CoralCEO",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/coral-ceo.json"
+      },
+      {
+        "label": "MintMillion",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/mint-million.json"
+      },
+      {
+        "label": "LavenderLegacy",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/lavender-legacy.json"
+      },
+      {
+        "label": "CharcoalChampion",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/charcoal-champion.json"
+      },
+      {
+        "label": "PeachProducer",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/peach-producer.json"
+      },
+      {
+        "label": "NavyNomad",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/navy-nomad.json"
+      },
+      {
+        "label": "MaroonMaster",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/maroon-master.json"
+      },
+      {
+        "label": "SlateSuccess",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/slate-success.json"
+      },
+      {
+        "label": "TurquoiseTrade",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/turquoise-trade.json"
+      },
+      {
+        "label": "BronzeBoss",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/bronze-boss.json"
+      },
+      {
+        "label": "IvoryInvestor",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/ivory-investor.json"
+      },
+      {
+        "label": "MagentaMagnate",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/magenta-magnate.json"
+      },
+      {
+        "label": "LimeLeader",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/lime-leader.json"
+      },
+      {
+        "label": "PlumProfit",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/plum-profit.json"
+      },
+      {
+        "label": "TanTitan",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/tan-titan.json"
+      },
+      {
+        "label": "CyanSovereign",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/cyan-sovereign.json"
+      },
+      {
+        "label": "SilverSensei",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/silver-sensei.json"
+      },
+      {
+        "label": "AI Overlord",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/ai-overlord.json"
+      },
+      {
+        "label": "Web3 Whale",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/web3-whale.json"
+      },
+      {
+        "label": "SoloPreneur Pro",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/solopreneur-pro.json"
+      },
+      {
+        "label": "DeepFocus Ultra",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/deepfocus-ultra.json"
+      },
+      {
+        "label": "HyperDrive Dev",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/hyperdrive-dev.json"
+      },
+      {
+        "label": "ZenProfit",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/zenprofit.json"
+      },
+      {
+        "label": "NightShift Mom",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/nightshift-mom.json"
+      },
+      {
+        "label": "VaporWave Money",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/vaporwave-money.json"
+      },
+      {
+        "label": "4AM Grind",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/4am-grind.json"
+      },
+      {
+        "label": "BaliDev Paradise",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/balidev-paradise.json"
+      },
+      {
+        "label": "CoffeeShop Coder",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/coffeeshop-coder.json"
+      },
+      {
+        "label": "DeFi Dreams",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/defi-dreams.json"
+      },
+      {
+        "label": "ExitStrategy",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/exitstrategy.json"
+      },
+      {
+        "label": "FounderFocus",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/founder-focus.json"
+      },
+      {
+        "label": "GigaChad Code",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/gigachad-code.json"
+      },
+      {
+        "label": "HackerNews Elite",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/hackernews-elite.json"
+      },
+      {
+        "label": "InfiniteLoop Luxury",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/infiniteloop-luxury.json"
+      },
+      {
+        "label": "JetLag Genius",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/jetlag-genius.json"
+      },
+      {
+        "label": "KickStarter King",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/kickstarter-king.json"
+      },
+      {
+        "label": "LateNight Legend",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/latenight-legend.json"
+      },
+      {
+        "label": "MacBook Millionaire",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/macbook-millionaire.json"
+      },
+      {
+        "label": "NoCode Rich",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/nocode-rich.json"
+      },
+      {
+        "label": "Overthink Optimizer",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/overthink-optimizer.json"
+      },
+      {
+        "label": "ProductHunt Hero",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/producthunt-hero.json"
+      },
+      {
+        "label": "QuietQuitter Pro",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/quietquitter-pro.json"
+      },
+      {
+        "label": "RemoteRebel",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/remote-rebel.json"
+      },
+      {
+        "label": "SideHustle Supreme",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/sidehustle-supreme.json"
+      },
+      {
+        "label": "TokenTrader",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/token-trader.json"
+      },
+      {
+        "label": "UnicornBuilder",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/unicorn-builder.json"
+      },
+      {
+        "label": "VCBacked Vibe",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/vcbacked-vibe.json"
+      },
+      {
+        "label": "WFH Warrior",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/wfh-warrior.json"
+      },
+      {
+        "label": "X10 Engineer",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/x10-engineer.json"
+      },
+      {
+        "label": "YachtCode",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/yacht-code.json"
+      },
+      {
+        "label": "ZeroToMillion",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/zero-to-million.json"
+      },
+      {
+        "label": "BootStrap Baron",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/bootstrap-baron.json"
+      },
+      {
+        "label": "CloudKing",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/cloud-king.json"
+      },
+      {
+        "label": "DebugDiamond",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/debug-diamond.json"
+      },
+      {
+        "label": "EdgeLord Elite",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/edgelord-elite.json"
+      },
+      {
+        "label": "FullStack Flex",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/fullstack-flex.json"
+      },
+      {
+        "label": "EliteForge Final",
+        "uiTheme": "vs-dark",
+        "path": "./free-themes/eliteforge-final.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^2.22.0"
+  }
+}

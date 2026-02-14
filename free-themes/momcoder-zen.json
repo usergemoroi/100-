@@ -1,0 +1,78 @@
+{
+  "name": "MomCoder Zen",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#12101a",
+    "editor.foreground": "#f0e8f5",
+    "activityBarBadge.background": "#d8a7d8",
+    "sideBar.background": "#0f0d15",
+    "sideBar.foreground": "#e0d0e8",
+    "sideBar.border": "#221e2a",
+    "tab.activeBackground": "#12101a",
+    "tab.activeForeground": "#d8a7d8",
+    "tab.inactiveBackground": "#0f0d15",
+    "tab.inactiveForeground": "#7a6a8a",
+    "statusBar.background": "#d8a7d8",
+    "statusBar.foreground": "#000000",
+    "titleBar.activeBackground": "#12101a",
+    "titleBar.activeForeground": "#f0e8f5",
+    "activityBar.background": "#0f0d15",
+    "activityBar.foreground": "#d8a7d8",
+    "button.background": "#d8a7d8",
+    "button.foreground": "#000000",
+    "input.background": "#1a1620",
+    "input.border": "#d8a7d8",
+    "editorCursor.foreground": "#ff9ecd",
+    "editorLineNumber.foreground": "#6a607a",
+    "editorLineNumber.activeForeground": "#d8a7d8",
+    "editor.lineHighlightBackground": "#16141c",
+    "editor.selectionBackground": "#d8a7d840",
+    "terminal.ansiBlack": "#221e2a",
+    "terminal.ansiBlue": "#a8c8ff",
+    "terminal.ansiCyan": "#a8e8ff",
+    "terminal.ansiGreen": "#b8e8b8",
+    "terminal.ansiMagenta": "#d8a7d8",
+    "terminal.ansiRed": "#ff9e9e",
+    "terminal.ansiWhite": "#f0e8f5",
+    "terminal.ansiYellow": "#ffe0a8",
+    "terminal.ansiBrightBlack": "#4a4058",
+    "terminal.ansiBrightBlue": "#c8d8ff",
+    "terminal.ansiBrightCyan": "#c8f8ff",
+    "terminal.ansiBrightGreen": "#d8ffd8",
+    "terminal.ansiBrightMagenta": "#ffc8ff",
+    "terminal.ansiBrightRed": "#ffb8b8",
+    "terminal.ansiBrightWhite": "#ffffff",
+    "terminal.ansiBrightYellow": "#fff0c8"
+  },
+  "semanticHighlighting": true,
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": {"foreground": "#6a607a", "fontStyle": "italic"}
+    },
+    {
+      "scope": ["string"],
+      "settings": {"foreground": "#ffb68a"}
+    },
+    {
+      "scope": ["constant.numeric"],
+      "settings": {"foreground": "#ffe0a8"}
+    },
+    {
+      "scope": ["keyword"],
+      "settings": {"foreground": "#ff9ecd", "fontStyle": "bold"}
+    },
+    {
+      "scope": ["entity.name.function"],
+      "settings": {"foreground": "#d4a5f7"}
+    },
+    {
+      "scope": ["entity.name.class"],
+      "settings": {"foreground": "#d8a7d8"}
+    },
+    {
+      "scope": ["variable"],
+      "settings": {"foreground": "#f0e8f5"}
+    }
+  ]
+}
